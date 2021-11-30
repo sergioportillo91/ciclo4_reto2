@@ -45,8 +45,6 @@ public class SupplementsService {
                     g.get().setCategory(u.getCategory());
                 }if(u.getDescription()!=null){
                     g.get().setDescription(u.getDescription());
-                }if(u.getObjetivo()!=null){
-                    g.get().setObjetivo(u.getObjetivo());
                 }if(u.getPhotography()!=null){
                     g.get().setPhotography(u.getPhotography());
                 }
